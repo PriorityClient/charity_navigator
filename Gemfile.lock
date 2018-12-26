@@ -1,0 +1,17 @@
+PATH
+  remote: .
+  specs:
+    charity_navigator (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  charity_navigator!
+
+BUNDLED WITH
+   1.14.4
